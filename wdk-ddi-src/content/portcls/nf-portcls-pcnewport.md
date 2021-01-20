@@ -148,7 +148,7 @@ The <i>ClassId</i> parameter can be set to one of the GUIDs in the following tab
 </table>
  
 
-<b>CLSID_PortDMus</b> is defined in header file dmusicks.h. The other four GUIDs in the preceding table are defined in portcls.h.
+<b>CLSID_PortDMus</b> is defined in header file dmusicks.h. The other five GUIDs in the preceding table are defined in portcls.h.
 
 In Microsoft Windows XP and later, the MIDI and DirectMusic port drivers share the same internal software implementation. This means that the <b>CLSID_PortMidi</b> GUID is equivalent to <b>CLSID_PortDMus</b>.
 
